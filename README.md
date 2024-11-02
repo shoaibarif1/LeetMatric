@@ -1,4 +1,5 @@
 # LeetMatric
+### https://shoaibarif1.github.io/LeetMatric/
 
 LeetMetric is a responsive web application that helps users track their problem-solving performance on LeetCode. By entering their LeetCode username, users can view statistics on the number of problems solved across different difficulty levels (Easy, Medium, Hard) and monitor their total submissions.
 
